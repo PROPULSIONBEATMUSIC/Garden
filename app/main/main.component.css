@@ -1,0 +1,91 @@
+
+.container {
+    height: 1vh;
+}
+.text {
+    font-size: 50px;
+    font-family: ARIAL BLACK;
+    line-height: 80px;
+    position: relative;
+    bottom: -200px;
+    left: 100px;
+    width: 1000px;
+}
+.page_plant {
+    position: relative;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    left: 40px;
+    bottom: 140px;
+}
+.desc_cost {
+    font-size: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    left: 120px;
+    bottom: 160px;
+    width: 700px;
+    height: 120px;
+    border-radius: 60px;
+}
+.line {
+    position: relative;
+    right: 10px;
+    height: 65px;
+    width: 3px;
+    background-color: rgb(213 211 190);
+}
+.cost {
+    color: rgb(1 156 2);
+    padding: 0px 20px;
+}
+.desc {
+    font-size: 15px;
+}
+.stats {
+    font-size: 15px;
+    position: relative;
+    flex-direction: column;
+    display: flex;
+    align-items: flex-end;
+    right: 300px;
+    bottom: 550px;
+    justify-content: space-between;
+    height: 500px;
+}
+.sunlight {
+    background-color: rgb(255 255 255);
+    padding: 0px 10px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: row;
+    line-height: 50px;
+    width: 400px;
+    align-items: center;
+}
+.fa-solid {
+    padding: 0px 30px;
+}
+.humidity {
+    background-color: rgb(255 255 255);
+    padding: 0px 10px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: row;
+    line-height: 50px;
+    width: 400px;
+    align-items: center;
+}
+.watering {
+    background-color: rgb(255 255 255);
+    padding: 0px 10px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: row;
+    line-height: 50px;
+    width: 400px;
+    align-items: center;
+}

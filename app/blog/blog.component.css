@@ -1,0 +1,20 @@
+.container {
+    height: 1vh;
+}
+.vid {
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.text {
+    font-size: 30px;
+    font-family: ARIAL BLACK;
+    display: flex;
+    justify-content: left;
+    position: relative;
+    left: 30px;
+}

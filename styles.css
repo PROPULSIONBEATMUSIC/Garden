@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    height: 100vh;
+    padding: 60px;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #318375;
+}
+a {
+    color: #001c00;
+    font-size: 30px;
+    text-decoration: none;
+}

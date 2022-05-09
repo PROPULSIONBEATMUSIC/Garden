@@ -1,0 +1,489 @@
+[
+    {
+        "id": 0,
+        "name": "plant1",
+        "sunlight": "4 to 5 hours json",
+        "humidity": "86%",
+        "watering": "1 in 7 days",
+        "cost": 29,
+        "description": "Nice plant! especially good a making your day greener"
+    },
+    {
+        "id": 1,
+        "name": "plant2",
+        "sunlight": "7 to 9 hours",
+        "humidity": "5%",
+        "watering": "1 in 70 days",
+        "cost": 25,
+        "description": "Pine tree – nice choice for lazy green lovers! Looks nice, cheap and easy to care! Can save your money and sanity as well"
+    },
+    {
+        "id": 2,
+        "name": "plant2",
+        "sunlight": "0 to 0 hours",
+        "humidity": "20%",
+        "watering": "1 in 20 days",
+        "cost": 2,
+        "description": "desc"
+    },
+    {
+        "id": 3,
+        "name": "plant3",
+        "sunlight": "5 to 8 hours",
+        "humidity": "20%",
+        "watering": "1 in 20 days",
+        "cost": 3,
+        "description": "desc"
+    },
+    {
+        "id": 4,
+        "name": "plant4",
+        "sunlight": "5 to 8 hours",
+        "humidity": "20%",
+        "watering": "1 in 20 days",
+        "cost": 4,
+        "description": "desc"
+    },
+
+
+
+
+    {
+        "id": 5,
+        "name": "Abelia",
+        "cost": 15,
+        "oldCost": 20,
+        "description": "desc"
+    },
+    {
+        "id": 6,
+        "name": "Armeniaca Mill",
+        "cost": 10,
+        "oldCost": 20,
+        "description": "desc"
+    },
+    {
+        "id": 7,
+        "name": "Abutilon",
+        "cost": 9,
+        "oldCost": 20,
+        "description": "desc"
+    },
+    {
+        "id": 8,
+        "name": "Aguacate",
+        "cost": 5,
+        "oldCost": 7,
+        "description": "desc"
+    },
+    {
+        "id": 9,
+        "name": "Agave",
+        "cost": 15,
+        "oldCost": 20,
+        "description": "desc"
+    },
+    {
+        "id": 10,
+        "name": "Aganisia",
+        "cost": 20,
+        "oldCost": 25,
+        "description": "desc"
+    },
+    {
+        "id": 11,
+        "name": "Cydonia Mill",
+        "cost": 22,
+        "oldCost": 30,
+        "description": "desc"
+    },
+    {
+        "id": 12,
+        "name": "Ailanthus Swingle",
+        "cost": 11,
+        "oldCost": 30,
+        "description": "desc"
+    },
+    {
+        "id": 13,
+        "name": "Acanthostachys",
+        "cost": 54,
+        "oldCost": 60,
+        "description": "desc"
+    },
+    {
+        "id": 14,
+        "name": "Aquilegia Lam",
+        "cost": 34,
+        "oldCost": 45,
+        "description": "desc"
+    },
+    {
+        "id": 15,
+        "name": "Feijoa",
+        "cost": 22,
+        "oldCost": 44,
+        "description": "desc"
+    },
+    {
+        "id": 16,
+        "name": "Acocantera",
+        "cost": 12,
+        "oldCost": 20,
+        "description": "desc"
+    },
+    {
+        "id": 17,
+        "name": "Actinidia Lindl",
+        "cost": 67,
+        "oldCost": 80,
+        "description": "desc"
+    },
+    {
+        "id": 18,
+        "name": "Aloe",
+        "cost": 35,
+        "oldCost": 50,
+        "description": "desc"
+    },
+    {
+        "id": 19,
+        "name": "Alternanthera",
+        "cost": 21,
+        "oldCost": 35,
+        "description": "desc"
+    },
+    {
+        "id": 20,
+        "name": "Angraecum",
+        "cost": 7,
+        "oldCost": 10,
+        "description": "desc"
+    },
+    {
+        "id": 21,
+        "name": "Anigozanthos",
+        "cost": 43,
+        "oldCost": 50,
+        "description": "desc"
+    },
+    {
+        "id": 22,
+        "name": "Bertolonia",
+        "cost": 22,
+        "oldCost": 40,
+        "description": "desc"
+    },
+    {
+        "id": 23,
+        "name": "Bletilla",
+        "cost": 12,
+        "oldCost": 20,
+        "description": "desc"
+    },
+    {
+        "id": 24,
+        "name": "Bowiea",
+        "cost": 67,
+        "oldCost": 75,
+        "description": "desc"
+    },
+    {
+        "id": 25,
+        "name": "Boehmeria Jacq",
+        "cost": 74,
+        "oldCost": 80,
+        "description": "desc"
+    },
+    {
+        "id": 26,
+        "name": "Brunfelsia",
+        "cost": 36,
+        "oldCost": 40,
+        "description": "desc"
+    },
+    {
+        "id": 27,
+        "name": "Bougainvillea",
+        "cost": 63,
+        "oldCost": 70,
+        "description": "desc"
+    },
+    {
+        "id": 28,
+        "name": "Buxus",
+        "cost": 62,
+        "oldCost": 75,
+        "description": "desc"
+    },
+    {
+        "id": 29,
+        "name": "Ligularia",
+        "cost": 17,
+        "oldCost": 25,
+        "description": "desc"
+    },
+    {
+        "id": 30,
+        "name": "Boussingaultia",
+        "cost": 53,
+        "oldCost": 60,
+        "description": "desc"
+    },
+    {
+        "id": 31,
+        "name": "Waldsteinia",
+        "cost": 27,
+        "oldCost": 30,
+        "description": "desc"
+    },
+    {
+        "id": 32,
+        "name": "Veltheimia",
+        "cost": 36,
+        "oldCost": 40,
+        "description": "desc"
+    },
+    {
+        "id": 33,
+        "name": "Hydrocharis",
+        "cost": 53,
+        "oldCost": 60,
+        "description": "desc"
+    },
+    {
+        "id": 34,
+        "name": "Alisma",
+        "cost": 26,
+        "oldCost": 30,
+        "description": "desc"
+    },
+    {
+        "id": 35,
+        "name": "Gardenia",
+        "cost": 14,
+        "oldCost": 20,
+        "description": "desc"
+    },
+
+
+
+
+    {
+        "id": 36,
+        "name": "Snowdrop",
+        "cost": 20,
+        "oldCost": 20,
+        "description": "desc"
+    },
+    {
+        "id": 37,
+        "name": "Primula",
+        "cost": 25,
+        "oldCost": 20,
+        "description": "desc"
+    },
+    {
+        "id": 38,
+        "name": "Azalea",
+        "cost": 16,
+        "oldCost": 20,
+        "description": "desc"
+    },
+    {
+        "id": 33,
+        "name": "Calla",
+        "cost": 5,
+        "oldCost": 7,
+        "description": "desc"
+    },
+    {
+        "id": 11,
+        "name": "Acalypha ",
+        "cost": 15,
+        "oldCost": 20,
+        "description": "desc"
+    },
+    {
+        "id": 14,
+        "name": "Camellia",
+        "cost": 20,
+        "oldCost": 25,
+        "description": "desc"
+    },
+    {
+        "id": 32,
+        "name": "Protea",
+        "cost": 22,
+        "oldCost": 30,
+        "description": "desc"
+    },
+    {
+        "id": 14,
+        "name": "Anemone",
+        "cost": 11,
+        "oldCost": 30,
+        "description": "desc"
+    },
+    {
+        "id": 53,
+        "name": "Catharanthus",
+        "cost": 54,
+        "oldCost": 60,
+        "description": "desc"
+    },
+    {
+        "id": 23,
+        "name": "Oxalis",
+        "cost": 34,
+        "oldCost": 45,
+        "description": "desc"
+    },
+    {
+        "id": 22,
+        "name": "Rose",
+        "cost": 22,
+        "oldCost": 44,
+        "description": "desc"
+    },
+    {
+        "id": 5,
+        "name": "Kohleria",
+        "cost": 12,
+        "oldCost": 20,
+        "description": "desc"
+    },
+    {
+        "id": 32,
+        "name": "Arabis",
+        "cost": 67,
+        "oldCost": 80,
+        "description": "desc"
+    },
+    {
+        "id": 3,
+        "name": "Impatiens",
+        "cost": 35,
+        "oldCost": 50,
+        "description": "desc"
+    },
+    {
+        "id": 11,
+        "name": "Lavandula",
+        "cost": 21,
+        "oldCost": 35,
+        "description": "desc"
+    },
+    {
+        "id": 42,
+        "name": "Lavatera",
+        "cost": 7,
+        "oldCost": 10,
+        "description": "desc"
+    },
+    {
+        "id": 12,
+        "name": "Stapelia",
+        "cost": 43,
+        "oldCost": 50,
+        "description": "desc"
+    },
+    {
+        "id": 4,
+        "name": "Passiflora",
+        "cost": 22,
+        "oldCost": 40,
+        "description": "desc"
+    },
+    {
+        "id": 53,
+        "name": "Linum ",
+        "cost": 12,
+        "oldCost": 20,
+        "description": "desc"
+    },
+    {
+        "id": 23,
+        "name": "Colchicum ",
+        "cost": 67,
+        "oldCost": 75,
+        "description": "desc"
+    },
+    {
+        "id": 11,
+        "name": "Cyrtanthus",
+        "cost": 74,
+        "oldCost": 80,
+        "description": "desc"
+    },
+    {
+        "id": 14,
+        "name": "Leucadendron",
+        "cost": 36,
+        "oldCost": 40,
+        "description": "desc"
+    },
+    {
+        "id": 24,
+        "name": "Lilium",
+        "cost": 63,
+        "oldCost": 70,
+        "description": "desc"
+    },
+    {
+        "id": 24,
+        "name": "Tanacetum",
+        "cost": 62,
+        "oldCost": 75,
+        "description": "desc"
+    },
+    {
+        "id": 53,
+        "name": "Tanacetum",
+        "cost": 17,
+        "oldCost": 25,
+        "description": "desc"
+    },
+    {
+        "id": 44,
+        "name": "Gardenia",
+        "cost": 53,
+        "oldCost": 60,
+        "description": "desc"
+    },
+    {
+        "id": 7,
+        "name": "Papaver",
+        "cost": 27,
+        "oldCost": 30,
+        "description": "desc"
+    },
+    {
+        "id": 9,
+        "name": "Viola",
+        "cost": 36,
+        "oldCost": 40,
+        "description": "desc"
+    },
+    {
+        "id": 32,
+        "name": "Geranium",
+        "cost": 53,
+        "oldCost": 60,
+        "description": "desc"
+    },
+    {
+        "id": 6,
+        "name": "Mimosa",
+        "cost": 26,
+        "oldCost": 30,
+        "description": "desc"
+    },
+    {
+        "id": 32,
+        "name": "Chrysanth",
+        "cost": 14,
+        "oldCost": 20,
+        "description": "desc"
+    }
+]

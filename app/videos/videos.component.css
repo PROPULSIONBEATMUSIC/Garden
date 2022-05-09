@@ -1,0 +1,65 @@
+.container{
+    height: 1vh;
+}
+.text {
+    font-size: 40px;
+    font-family: ARIAL BLACK;
+    line-height: 80px;
+    position: relative;
+    bottom: -30px;
+    left: 100px;
+    width: 1000px;
+}
+.page_plant {
+    position: relative;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    left: 40px;
+    bottom: 140px;
+}
+.line {
+    position: relative;
+    right: 10px;
+    height: 65px;
+    width: 3px;
+    background-color: rgb(213 211 190);
+}
+.cost {
+    color: rgb(1 156 2);
+    padding: 0px 20px;
+}
+.desc {
+    font-size: 15px;
+}
+.column {
+    top: 50px;
+    font-size: 15px;
+    position: relative;
+    flex-direction: column;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    height: 700px;
+    left: 50px;
+    flex-wrap: wrap;
+}
+.video {
+    background-color: rgb(255 255 255);
+    padding: 0px 5px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: row;
+    line-height: 50px;
+    width: 600px;
+    align-items: center;
+}
+.fa-solid {
+    padding: 0px 30px;
+}
+.fa-play {
+    padding: 0px 0px;
+}
+.fa-pause {
+    padding: 0px 10px;
+}
